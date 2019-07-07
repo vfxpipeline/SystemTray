@@ -3,7 +3,7 @@ Name: System Tray Application
 Author :  Rajiv Sharma
 Developer Website : www.hqvfx.com
 Developer Email   : rajiv@hqvfx.com
-Date Started : 16 sept 2018
+Date Started : 07 July 2019
 Date Modified :
 Description : Desktop client for Stdio Line Production pipeline
 
